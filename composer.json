@@ -1,0 +1,15 @@
+{
+ "name": "michaelnoble/cmb2-FlipSwitch-field",
+  "description": "A flip-switch button for CMB2 WordPress metaboxes.  The field integrates jQuery.OnOff (https://github.com/timmywil/jquery.onoff). The switch css is generated at https://proto.io/freebies/onoff/ , modified for multiple label sets.",
+  "type": "cmb2-component",
+  "license": "GPLv3",
+  "authors": [
+      {
+          "name": "Michael Noble",
+          "email": "michaelznoble@gmail.com"
+      }
+  ],
+  "keywords": [
+    "cmb2","switch", "field", "wp", "metabox","flip-switch", "onoff", "flip"
+  ]
+}
